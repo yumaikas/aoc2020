@@ -1,0 +1,3 @@
+# AOC for Janet 2020 Advent of Code
+
+TODO: Make all of the scripts spit out their results in a "pretty" way
